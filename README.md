@@ -1,7 +1,7 @@
 ## virt2phys
 
 > [!NOTE]
-> This repository is a fork of [virt2phys]](https://github.com/katsuster/virt2phys)). 
+> This repository is a fork of [virt2phys](https://github.com/katsuster/virt2phys). 
 > Please note that this is a forked version and may not reflect the latest upstream changes.
 
 A tool of translating virtual address of user space to physical address.
